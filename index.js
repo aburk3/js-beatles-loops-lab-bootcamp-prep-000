@@ -32,4 +32,11 @@ function johnLennonFacts(arrayFacts){
   return arrayLennonFacts
 }
 
-f
+
+
+function iLoveTheBeatles(number) {
+  let arrayFinal = []
+  do {
+    
+  } while 
+}
